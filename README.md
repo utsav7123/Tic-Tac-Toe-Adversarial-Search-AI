@@ -136,3 +136,4 @@ Credits
    - AI methods: Russell & Norvig, "Artificial Intelligence: A Modern Approach"
 
 ## License
+-  For educational use only. Do not redistribute without permission. If reusing or extending for other coursework, please credit the original source.
